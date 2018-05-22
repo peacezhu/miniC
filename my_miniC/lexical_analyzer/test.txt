@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+	int a=0;
+	printf("%d",a);
+	printf("hello world");
+	23gh;
+/*zheshiyigezhushi*/
+	return 0;
+}
